@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1586514946 source:c:\users\krobus\documents\kuliah\std\tubes_topik6_optimasi\main.cpp
+	"controller.h"
+
+1588007158 c:\users\krobus\documents\kuliah\std\tubes_topik6_optimasi\controller.h
+	<iostream>
+	<stdlib.h>
+	"list_film.h"
+	"list_relasi.h"
+	"list_sutradara.h"
+
+1587784382 source:c:\users\krobus\documents\kuliah\std\tubes_topik6_optimasi\controller.cpp
+	"controller.h"
+
+1588006816 source:c:\users\krobus\documents\kuliah\std\tubes_topik6_optimasi\list_film.cpp
+	"list_film.h"
+
+1588007120 source:c:\users\krobus\documents\kuliah\std\tubes_topik6_optimasi\list_relasi.cpp
+	"list_relasi.h"
+
+1588006948 source:c:\users\krobus\documents\kuliah\std\tubes_topik6_optimasi\list_sutradara.cpp
+	"list_sutradara.h"
+
+1586483976 c:\users\krobus\documents\kuliah\std\tubes_topik6_optimasi\list_sutradara.h
+	<iostream>
+
+1586494701 c:\users\krobus\documents\kuliah\std\tubes_topik6_optimasi\list_film.h
+	<iostream>
+	"list_relasi.h"
+
+1586486154 c:\users\krobus\documents\kuliah\std\tubes_topik6_optimasi\list_relasi.h
+	<iostream>
+	"list_sutradara.h"
+
